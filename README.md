@@ -399,7 +399,7 @@ By combining Python, SQL and Power BI, this project demonstrates an end-to-end a
 
 ---
 
-## Author
+## Author - Rashitha Werapitiya
 
 **Data Analytics Portfolio Project**
 
