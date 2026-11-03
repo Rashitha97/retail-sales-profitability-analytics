@@ -156,8 +156,8 @@ The Profitability Analysis page focuses on identifying the factors influencing p
 
 ### Dashboard Files
 
-- [Power BI Dashboard (.pbix)](Dashboard/Retail_Sales_Profitability.pbix)
-- [Dashboard PDF](Dashboard/Retail_Sales_Profitability.pdf)
+- [Power BI Dashboard (.pbix)](Dashboard/Retail Sales & Profitability Analytics.pbix
+- [Dashboard PDF](Dashboard/Retail Sales & Profitability Analytics.pdf)
 
 ---
 
